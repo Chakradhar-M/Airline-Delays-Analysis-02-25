@@ -1,4 +1,4 @@
-# Airline Delays Analysis Data Dictionary
+# Airline Delays Data Dictionary
 
 This table provides descriptions for each column in the airline delays dataset.
 
