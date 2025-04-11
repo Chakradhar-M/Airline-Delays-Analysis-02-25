@@ -154,7 +154,7 @@ This project demonstrates how data visualization and analysis can help aviation 
 
 </div>
 
-🔗 Check out the **Data Dictionary** 👉 [Click Here](#)
+🔗 Check out the **Data Dictionary** 👉 [Click Here](https://github.com/Chakradhar-M/Airline-Delays-Analysis-02-25/blob/main/dataset/data_dictionary.md)
 
 
 ---
