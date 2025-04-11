@@ -40,3 +40,121 @@ This project demonstrates how data visualization and analysis can help aviation 
 📌 **Tip:** Right-click or Ctrl + Click to open links in a new tab.
 
 ---
+
+### 📊 Sample Raw Data
+
+<div style="overflow-x:auto; white-space:nowrap;">
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Month</th>
+      <th>Carrier&nbsp;ID</th>
+      <th>Carrier&nbsp;Name</th>
+      <th>Airport&nbsp;Code</th>
+      <th>Airport&nbsp;Name</th>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>Total&nbsp;Flights</th>
+      <th>Delay&nbsp;(&gt;15&nbsp;min)</th>
+      <th>Carrier&nbsp;Delays</th>
+      <th>Weather&nbsp;Delays</th>
+      <th>NAS&nbsp;Delays</th>
+      <th>Security&nbsp;Delays</th>
+      <th>Late&nbsp;Aircraft</th>
+      <th>Cancelled</th>
+      <th>Diverted</th>
+      <th>Late&nbsp;Arrival&nbsp;(Min)</th>
+      <th>Carrier&nbsp;(Min)</th>
+      <th>Weather&nbsp;(Min)</th>
+      <th>NAS&nbsp;(Min)</th>
+      <th>Security&nbsp;(Min)</th>
+      <th>Late&nbsp;Aircraft&nbsp;(Min)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2024</td>
+      <td>1</td>
+      <td>9E</td>
+      <td>Endeavor&nbsp;Air&nbsp;Inc.</td>
+      <td>ABE</td>
+      <td>Lehigh&nbsp;Valley&nbsp;Intl&nbsp;Airport</td>
+      <td>40.651773</td>
+      <td>-75.442797</td>
+      <td>44</td>
+      <td>3</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>89</td>
+      <td>56</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>3</td>
+      <td>9E</td>
+      <td>Endeavor&nbsp;Air&nbsp;Inc.</td>
+      <td>ABY</td>
+      <td>Aboyi&nbsp;Airstrip</td>
+      <td>-4.288741</td>
+      <td>140.640664</td>
+      <td>90</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>23</td>
+      <td>22</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>1</td>
+      <td>9E</td>
+      <td>Endeavor&nbsp;Air&nbsp;Inc.</td>
+      <td>AEX</td>
+      <td>Alexandria&nbsp;Intl&nbsp;Airport</td>
+      <td>31.3274</td>
+      <td>-92.549797</td>
+      <td>88</td>
+      <td>8</td>
+      <td>6</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>338</td>
+      <td>265</td>
+      <td>0</td>
+      <td>45</td>
+      <td>0</td>
+      <td>28</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+🔗 Check out the **Data Dictionary** 👉 [Click Here](#)
+
+
+---
