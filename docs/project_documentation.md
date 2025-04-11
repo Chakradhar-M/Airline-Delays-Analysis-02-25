@@ -1,4 +1,4 @@
-<h1 align="center">✈️ Flight Delay Analysis </h1>
+<h1 align="center">✈️ Flight Delays Analysis </h1>
 
 <div style="display: flex; justify-content: space-between; padding: 10px; background-color: #f4f4f4; border-radius: 8px;">
     <h4>📅 Date: Feb 2025</h4>
