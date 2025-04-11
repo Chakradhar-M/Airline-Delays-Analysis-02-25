@@ -28,3 +28,16 @@ The objective of this project is to create a comprehensive and interactive dashb
 This project demonstrates how data visualization and analysis can help aviation stakeholders make informed decisions that support reliability, efficiency, and sustainability in air travel.
 
 ---
+
+###  📂 Essential Project Links  
+
+| 🧭 Resource | 🔗 Access |
+|------------|----------|
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/database.png?raw=true" width="20" style="vertical-align:middle;"> **Data Source** | 👉 [Click to View Data Source](#) |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/power-bi.png?raw=true" width="22" style="vertical-align:middle;"> **Power BI Live Report** | 📊 [View Interactive Dashboard](#) |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/youtube.png?raw=true" width="20" style="vertical-align:middle;"> **Project Presentation** | 🎬 [Watch Presentation](#) |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/linkedin.png?raw=true" width="22" style="vertical-align:middle;"> **LinkedIn Post** | 🔗 [Read on LinkedIn](#) |
+
+📌 **Tip:** Right-click or Ctrl + Click to open links in a new tab.
+
+---
