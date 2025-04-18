@@ -158,3 +158,26 @@ This project demonstrates how data visualization and analysis can help aviation 
 
 
 ---
+
+### 📊 **Key Performance Indicators (KPIs)**
+
+1️⃣ **Total Arrivals**  
+Represents the total number of flight arrivals recorded in the system. This KPI provides a complete view of incoming air traffic volume over a selected time period.
+
+2️⃣ **On-Time Arrivals**  
+Represents the number of flights that arrived at their destination on or before the scheduled time. This KPI helps measure operational efficiency and punctuality of airline services.
+
+3️⃣ **Delayed Arrivals**  
+Represents the number of flights that were delayed by more than 15 minutes upon arrival. This KPI is crucial for assessing delay patterns and identifying factors impacting flight timeliness.
+
+4️⃣ **Delay Minutes**  
+Represents the total number of minutes lost due to flight delays caused by late arrivals. This KPI highlights the cumulative impact of delays and supports root cause analysis.
+
+5️⃣ **Cancelled Flights**  
+Represents the total number of flights that were cancelled. This KPI is vital for understanding service disruptions and airline reliability.
+
+6️⃣ **Diverted Flights**  
+Represents the number of flights that were diverted from their original destination. This KPI helps track irregular flight operations and support decisions related to emergency or rerouted flight handling.
+
+
+---
